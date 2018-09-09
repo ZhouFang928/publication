@@ -28,7 +28,7 @@ This repository lists out my publication in Data Science and Artificial Intellig
 
 [The Machine Learning Hub](https://mlhub.ai/)
 
-## Code
+## Code [R | Python | SQL]
 
 ### Data Science Template
 
