@@ -20,6 +20,8 @@ This repository lists out my publication in Data Science and Artificial Intellig
 
 [Data Science Accelerator for Credit Risk Prediction](https://blog.revolutionanalytics.com/2017/07/credit-risk-prediction.html/)
 
+[Data Science Accelerator for Product Demand Forecasting](https://github.com/Microsoft/acceleratoRs/blob/master/ProductDemandForecast/README.md)
+
 [Market Campaign Prediction with Sentiment Analysis using Azure Machine Learning Workbench](https://github.com/ZhouFang928/MachineLearningSamples-MarketCampaign/blob/master/scenario-market-campaign-sentiment-analysis.md)
 
 ### Data Science Tool and Development
