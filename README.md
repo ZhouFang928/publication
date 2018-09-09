@@ -27,3 +27,17 @@ This repository lists out my publication in Data Science and Artificial Intellig
 [Xgboost Support Added to Rattle](https://blog.revolutionanalytics.com/2017/07/xgboost-support-added-to-rattle.html)
 
 [The Machine Learning Hub](https://mlhub.ai/)
+
+## Code
+
+### Data Science Template
+
+[SQL R Service](https://github.com/ZhouFang928/sql-r-service/tree/master/telco-customer-churn-v1)
+
+[Data Science AcceleratoRs](https://github.com/Microsoft/acceleratoRs)
+
+[Azure Machine Learning Tutorial](https://github.com/Azure/MachineLearningSamples-MarketCampaign)
+
+### Data Science Platform
+
+[Machine Learning Hub](https://github.com/mlhubber/mlmodels)
