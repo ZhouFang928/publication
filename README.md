@@ -4,7 +4,9 @@ This repository lists out my publication in Data Science and Artificial Intellig
 
 ## Talk
 
-### Microsoft Webinar[Data Science for Database Professionals](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Database-Professionals)
+### Microsoft Webinar
+
+[Data Science for Database Professionals](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Data-Science-for-Database-Professionals)
 
 ### Conference
 
@@ -43,3 +45,12 @@ This repository lists out my publication in Data Science and Artificial Intellig
 ### Data Science Platform
 
 [Machine Learning Hub](https://github.com/mlhubber/mlmodels)
+
+## Customer projects
+
+### Templates
+
+[Load Credit Risk](https://github.com/microsoft/r-server-loan-credit-risk)
+[Online Fraud Detection](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/FraudDetection)
+[Predictive Maintenance](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/PredictiveMaintenance)
+[Retail Precision Marketing](https://github.com/microsoft/sql-server-samples/tree/master/samples/features/r-services/Retail%20Precision%20Marketing)
