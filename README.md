@@ -54,6 +54,8 @@ This repository lists out my publication in Data Science and Artificial Intellig
 
 [Online Fraud Detection](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/FraudDetection)
 
+[Retail Forecasting](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/tree/master/RetailForecasting)
+
 [Predictive Maintenance](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/PredictiveMaintenance)
 
 [Retail Precision Marketing](https://github.com/microsoft/sql-server-samples/tree/master/samples/features/r-services/Retail%20Precision%20Marketing)
