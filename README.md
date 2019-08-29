@@ -51,6 +51,9 @@ This repository lists out my publication in Data Science and Artificial Intellig
 ### Templates
 
 [Load Credit Risk](https://github.com/microsoft/r-server-loan-credit-risk)
+
 [Online Fraud Detection](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/FraudDetection)
+
 [Predictive Maintenance](https://github.com/ZhouFang928/SQL-Server-R-Services-Samples/blob/master/PredictiveMaintenance)
+
 [Retail Precision Marketing](https://github.com/microsoft/sql-server-samples/tree/master/samples/features/r-services/Retail%20Precision%20Marketing)
